@@ -27,7 +27,7 @@ export default function Footer() {
         </FooterNav>
       </NavBox>
       <div>
-          <p>Copyright 2021 Founded by the best team at Lambda!</p>
+          <p>Copyright 2021 Founded by the best students at Lambda!</p>
       </div>
     </div>
   );
